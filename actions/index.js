@@ -20,7 +20,7 @@ export async function createUser(fromData) {
 
     revalidatePath("/")
 
-    return user
+    
 }
 
 
